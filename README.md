@@ -3,6 +3,7 @@
 - :mortar_board: Estudante de Sistemas de informação
 - :computer: Estagiário de Desenvolvimento de Software
 
+<img src="https://readyplayer.me/gallery/dAQMvEoSo" />
 
  <div>
   <a href="https://github.com/ramonsantospinto">
