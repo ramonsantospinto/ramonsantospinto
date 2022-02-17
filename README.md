@@ -3,8 +3,6 @@
 - :mortar_board: Estudante de Sistemas de informação
 - :computer: Estagiário de Desenvolvimento de Software
 
-<img src="https://readyplayer.me/gallery/dAQMvEoSo" />
-
  <div>
   <a href="https://github.com/ramonsantospinto">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ramonsantospinto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
