@@ -1,3 +1,1 @@
-
-- :mortar_board: Estudante de Sistemas de informação
-- :computer: Estagiário de Desenvolvimento de Software
+Hi, I'm Ramon. I'm a software developer and intern.
