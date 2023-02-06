@@ -1,3 +1,3 @@
 Hello World, 
 
-I'm a Jr Software Developer
+I'm Software Developer
