@@ -1,3 +1,3 @@
 Hello World, 
 
-I'm Software Developer
+I'm Software Developer, Android / Dart & Flutter.
