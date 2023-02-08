@@ -1,5 +1,5 @@
-# Hello World!
+ Hello World!
 
-# I'm Software Developer, Android / Dart & Flutter.
+ I'm Software Developer, Android / Dart & Flutter.
 
-# Backend: SQLite
+ Backend: SQLite
